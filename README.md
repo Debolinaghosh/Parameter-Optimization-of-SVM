@@ -17,16 +17,8 @@ Within this project, parameter optimization is conducted employing a Fitness Fun
 - **Epsilon (Gamma):** Establishes the margin of error permitted in the SVM algorithm.
 
 ## Convergence Graph
-![download (1)](https://github.com/MannatPruthi/Parameter-Optimization-of-SVM/assets/91721574/8ec2de6c-3730-4313-b9f0-7a2f00241a10)
+![download (1)](https://github.com/Debolinaghosh/Parameter-Optimization-of-SVM/blob/main/convergence%20graph.png?raw=true)
 
 ## Result Table
-![result](https://github.com/MannatPruthi/Parameter-Optimization-of-SVM/assets/91721574/83e01fbc-b261-47aa-ab11-45a0db83f137)
+![result](https://github.com/Debolinaghosh/Parameter-Optimization-of-SVM/blob/main/resultant%20table.png?raw=true)
 
-
-Submitted by:
-
-Mannat Pruthi
-
-102117185
-
-B 3CS6
